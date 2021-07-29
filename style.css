@@ -1,0 +1,39 @@
+h2{
+    background-color: greenyellow;
+    margin-top: -20px;
+    color: black;
+    width: 100%;
+    margin-bottom: 5px;
+
+}
+.note{
+    color: black;
+    font-size: 25px;
+}
+body{
+    background-size: cover;
+}
+.div_speed_img, .div_Volume_img{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.speed_div{
+    float: left;
+}
+.volume_div{
+    float: right;
+}
+
+#speed{
+    font-size: 25px;
+    margin: 15px;
+}
+#volume{
+    font-size: 25px;
+    margin: 15px;
+}
+.play{
+    width: 130px;
+    font-size: 25px;
+}
